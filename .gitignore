@@ -1,0 +1,14 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+/out
+/gen
+/captures
+.externalNativeBuild
+/src/ca/ubc/cs/cpsc210/translink/auth/TranslinkToken.java
+src/ca/ubc/cs/cpsc210/translink/auth/TranslinkToken.java
+TranslinkToken.java
+
+workspace.xml
+
